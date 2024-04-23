@@ -1,0 +1,90 @@
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 0;
+    background-image: url("../static/images.avif");
+    background-size: cover;
+    margin: 0;
+  }
+
+  p {
+    text-align: center;
+    color: #030304;
+    margin-bottom: 20px;
+  }
+  h1 {
+    text-align: center;
+    font-size: 40px
+    color: #030304;
+    margin-bottom: 20px;
+  }
+
+  h3 {
+    text-align: center;
+    font-size: 20px
+    color: #030304;
+    margin-bottom: 20px;
+  }
+  
+  form {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  label {
+  
+    display: block;
+    margin-bottom: 5px;
+    color: #030304;
+  }
+
+  select {
+    width: 16%;
+    padding: 8px;
+    border: 2px solid #0b0505;
+    border-radius: 3px;
+    margin-bottom: 10px;
+  }
+
+  input[type="text"] {
+    width: 15%;
+    padding: 8px;
+    border: 2px solid #0b0505;
+    border-radius: 3px;
+    margin-bottom: 10px;
+  }
+
+  input[type="number"] {
+    width: 15%;
+    padding: 8px;
+    border: 2px solid #0b0505;
+    border-radius: 3px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 8px 20px;
+    background-color: #030304;
+    color: #f7f7fc;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #020202;
+  }
+  
+  h2 {
+    margin-top: 20px;
+    color: #030304;
+    text-align: center;
+  }
+  
+  
+  
+  
+  
+  
+  
