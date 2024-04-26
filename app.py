@@ -1,7 +1,6 @@
 from flask import Flask,request,render_template
 import pickle
 import numpy as np
-import pandas as pd
 from sklearn.preprocessing import StandardScaler
 
 with open('model.pkl','rb') as model_file:
